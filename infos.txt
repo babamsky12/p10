@@ -1,0 +1,7 @@
+Name: Cheong-san
+Age: 21
+Address: Korea
+Nationality: Korean
+E-mail: cheong-san@gmail.com
+
+Date: 22-02-19 | Time: 23:14:40
